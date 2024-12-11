@@ -1,0 +1,46 @@
+[
+  {
+    "questionNo": "Q7",
+    "question": "How many equal parts are shown in the picture?<br><img width='60%' src='./images/2.png'>",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q8",
+    "question": "How many equal parts are shown in the picture?<br><img width='60%' src='./images/1.png'>",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q9",
+    "question": "How many equal parts can you see in this picture?<br><img width='60%' src='./images/3.png'>",
+    "options": [
+      "2",
+      "5",
+      "4",
+      "3"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q10",
+    "question": "How many equal parts are shown in the picture?<br><img width='60%' src='./images/4.png'>",
+    "options": [
+      "7",
+      "6",
+      "8",
+      "9"
+    ],
+    "correct": 2
+  }
+]

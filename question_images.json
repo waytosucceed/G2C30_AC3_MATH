@@ -1,0 +1,104 @@
+[
+  {
+    "questionNo": "",
+    "question": "Here’s the first question from the doubt box: “Which picture shows equal parts?”",
+    "optionsImages": [
+      "./images/1.jpg",
+      "./images/2.jpg",
+      "./images/3.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Mrs Green asked one of the students to select the picture that shows the equal parts.",
+    
+    "optionsImages": [
+      "./images/4.jpg",
+      "./images/5.jpg",
+      "./images/6.jpg"
+    ],
+    "correct":1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Someone wrote, 'Look at these shapes and select the picture that shows equal parts.' Can you figure it out?",
+    
+    "optionsImages": [
+      "./images/7.jpg",
+      "./images/8.jpg",
+      "./images/9.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Another student asked, Mrs. Green, can you help me select the picture that shows equal parts?",
+    "optionsImages": [
+      "./images/10.jpg",
+      "./images/11.jpg",
+      "./images/12.jpg"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Another question came in: Can you choose the picture that divides a shape into equal parts?",
+    
+    "optionsImages": [
+      "./images/13.jpg",
+      "./images/14.jpg",
+      "./images/15.jpg"
+    ],
+    "correct":0,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "A curious student asked, Among the given pictures, which one shows equal parts?",
+    
+    "optionsImages": [
+      "./images/16.jpg",
+      "./images/17.jpg",
+      "./images/18.jpg"
+    ],
+    "correct": 2,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+      
+  ]
+  
